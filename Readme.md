@@ -1,1 +1,1 @@
-This ia a Chat app.
+This is a Chat app.
